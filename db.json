@@ -1,0 +1,24 @@
+{
+    "persons":[
+        {
+            "name": "Diego",
+            "phone": "033-12341412",
+            "street": "Calle Front",
+            "city": "Huixqui",
+            "id": "2141231"
+        },
+        {
+            "name": "Luis",
+            "phone": "033-2123111",
+            "street": "Calle Margura",
+            "city": "La paz",
+            "id": "4142134"
+        },
+        {
+            "name": "Olivia",
+            "street": "Calle Lux",
+            "city": "Noxus",
+            "id": "2141231"
+        }
+    ]
+}
